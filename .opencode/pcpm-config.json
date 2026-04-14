@@ -5,7 +5,7 @@
     "onFailure": "/Users/jeremy/dev/documentation-templates/.opencode/hooks/pcpm-after-run.sh"
   },
   "pcpm": {
-    "brainRepoPath": "/Users/jeremy/dev/documentation-templates",
+    "brainRepoPath": "/Users/jeremy/dev/global-brain",
     "projectId": "documentation-templates",
     "goalId": "default-goal",
     "goalDescription": "Continue development",
